@@ -1,0 +1,132 @@
+{
+	"a": {
+		"big": 1,
+		"small": 1,
+		"vowel": true
+	},
+	"b": {
+		"big": 2,
+		"small": 2,
+		"vowel": false
+	},
+	"c": {
+		"big": 3,
+		"small": 3,
+		"vowel": false
+	},
+	"d": {
+		"big": 4,
+		"small": 4,
+		"vowel": false
+	},
+	"e": {
+		"big": 5,
+		"small": 5,
+		"vowel": true
+	},
+	"f": {
+		"big": 6,
+		"small": 6,
+		"vowel": false
+	},
+	"g": {
+		"big": 7,
+		"small": 7,
+		"vowel": false
+	},
+	"h": {
+		"big": 8,
+		"small": 8,
+		"vowel": false
+	},
+	"i": {
+		"big": 9,
+		"small": 9,
+		"vowel": true
+	},
+	"j": {
+		"big": 10,
+		"small": 1,
+		"vowel": false
+	},
+	"k": {
+		"big": 11,
+		"small": 2,
+		"vowel": false
+	},
+	"l": {
+		"big": 12,
+		"small": 3,
+		"vowel": false
+	},
+	"m": {
+		"big": 13,
+		"small": 4,
+		"vowel": false
+	},
+	"n": {
+		"big": 14,
+		"small": 5,
+		"vowel": false
+	},
+	"o": {
+		"big": 15,
+		"small": 6,
+		"vowel": true
+	},
+	"p": {
+		"big": 16,
+		"small": 7,
+		"vowel": false
+	},
+	"q": {
+		"big": 17,
+		"small": 8,
+		"vowel": false
+	},
+	"r": {
+		"big": 18,
+		"small": 9,
+		"vowel": false
+	},
+	"s": {
+		"big": 19,
+		"small": 1,
+		"vowel": false
+	},
+	"t": {
+		"big": 20,
+		"small": 2,
+		"vowel": false
+	},
+	"u": {
+		"big": 21,
+		"small": 3,
+		"vowel": true
+	},
+	"v": {
+		"big": 22,
+		"small": 4,
+		"vowel": false
+	},
+	"w": {
+		"big": 23,
+		"small": 5,
+		"vowel": false
+	},
+	"x": {
+		"big": 24,
+		"small": 6,
+		"vowel": false
+	},
+	"y": {
+		"big": 25,
+		"small": 7,
+		"vowel": true
+	},
+	"z": {
+		"big": 26,
+		"small": 8,
+		"vowel": false
+	}
+}
