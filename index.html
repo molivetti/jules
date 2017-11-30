@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="jules.css">
+
+    <title>Numerology</title>
+
+</head>
+
+<body>
+
+	<form id="julesForm">
+		<div id="main">
+			<fieldset>
+				<legend>Omnia in numeris sita sunt.</legend>
+				
+				<label for="fullName">Full name:</label>
+				<input type="text" id="fullName" name="fullName" value="Jules Dickson Mappus" />
+
+				<label for="bday">Birthday (mm/dd/yyyy):</label>
+				<input type="text" id="bday" name="bday" value="10/11/1994" />
+
+				<input type="submit" id="submit" value="Submit" />
+			</fieldset>
+		</div>
+	</form>
+	
+	<div id="nameResult"></div>
+	<div id="bdayResult"><ul></ul></div>
+
+	<!-- jQuery -->
+    <script src="jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="bootstrap.min.js"></script>
+
+	<script type="text/javascript" src="jules.js"></script>
+</body>
